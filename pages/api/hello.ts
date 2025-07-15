@@ -2,7 +2,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 
 type Data = {
-  name: string;
+  name: string;//added test comment to trigger pull request
 };
 
 export default function handler(
