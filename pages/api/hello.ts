@@ -9,5 +9,5 @@ export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>,
 ) {
-  res.status(200).json({ name: "John Doe" });//testing pr visibility
+  res.status(200).json({ name: "Kalavathy" });//testing pr visibility
 }
